@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 abcdefg
+=======
+abfffffffc
+>>>>>>> bb111fc099ab4ba04588777ee991334ccc4e60aa
