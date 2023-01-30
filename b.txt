@@ -1,4 +1,4 @@
-#include <stdo.h> //ggwp
+#include <stdo.h> xdcfkl;dvfhfvv;oflgsdgf
 int main(){
     printf("GGwP\n");
 
